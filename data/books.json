@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0",
+    "name": "bla",
+    "description": "bla bla",
+    "imgUrl": "https://images.unsplash.com/photo-1669223308086-bf5152ff0231?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "id": "1",
+    "name": "bla 2",
+    "description": "bla bla 2",
+    "imgUrl": "https://images.unsplash.com/photo-1664739573730-11011f6690e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+  }
+]
